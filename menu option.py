@@ -12,5 +12,5 @@ elif menu == 3:
 #learn loops
 #learn both types of loops and how to use them
 #learn how to use if,elif,else statements
-#how to use stuff i pictures 
+#how to use stuff i pictures
 
